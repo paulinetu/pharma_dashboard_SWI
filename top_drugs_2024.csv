@@ -1,41 +1,41 @@
 Rang;Nom;Disease area;Disease area FR;Fabricant(s);Ventes 2024 (mn $);Taux de croissance 2023-2024 (%)
 1;Keytruda ;Oncology;Oncologie;Merck;29 482;17.9
-2;Eliquis ;Cardiovascular/Hematology;Cardio/Hématologie;Bristol Myers Squibb / Pfizer;20 703;9.2
-3;Ozempic ;Metabolic Diseases;Maladies métaboliques;Novo Nordisk;17 451;25.8
+2;Eliquis ;Cardiovascular/Hematology;Cardio/HÃ©matologie;Bristol Myers Squibb / Pfizer;20 703;9.2
+3;Ozempic ;Metabolic Diseases;Maladies mÃ©taboliques;Novo Nordisk;17 451;25.8
 4;Dupixent ;Immunology/Respiratory;Immunologie/Respiratoire;Sanofi/Regeneron;14 147;22.1
 5;Biktarvy ;Infectious Diseases (HIV);Maladies infectieuses (VIH);Gilead Sciences, Inc.;13 423;13.3
-6;JARDIANCE family;Metabolic/Cardiovascular;Métabolique/cardiovasculaire;Boehringer Ingelheim / Eli Lilly;12 385;15
+6;JARDIANCE family;Metabolic/Cardiovascular;MÃ©tabolique/cardiovasculaire;Boehringer Ingelheim / Eli Lilly;12 385;15
 7;Skyrizi ;Immunology;Immunologie;AbbVie;11 718;50.9
-8;Darzalex ;Oncology/Hematology;Oncologie/Hématologie;Johnson & Johnson;11 670;19.8
-9;Mounjaro ;Metabolic Diseases;Maladies métaboliques;Eli Lilly and Company;11 540;123.5
+8;Darzalex ;Oncology/Hematology;Oncologie/HÃ©matologie;Johnson & Johnson;11 670;19.8
+9;Mounjaro ;Metabolic Diseases;Maladies mÃ©taboliques;Eli Lilly and Company;11 540;123.5
 10;Stelara ;Immunology;Immunologie;Johnson & Johnson;10 361;-4.6
 11;Trikafta/Kaftrio ;Respiratory/Rare Disease;Maladies respiratoires/rares;Vertex Pharmaceuticals Incorporated;10 239;14.5
 12;Eylea ;Ophthalmology;Ophtalmologie;Regeneron/Bayer;9 546;-25.9
 13;Opdivo ;Oncology;Oncologie;Bristol-Myers Squibb;9 304;3.3
 14;Humira ;Immunology;Immunologie;AbbVie;8 993;-37.6
 15;Gardasil/Gardasil 9;Vaccines/Infectious Diseases;Vaccins/Maladies infectieuses;Merck;8 583;-3.4
-16;Wegovy ;Metabolic Diseases;Maladies métaboliques;Novo Nordisk;8 442;85.7
+16;Wegovy ;Metabolic Diseases;Maladies mÃ©taboliques;Novo Nordisk;8 442;85.7
 17;Entresto ;Cardiovascular;Cardiovasculaire;Novartis;7 822;29.6
 18;Comirnaty ;Vaccines/Infectious Diseases;Vaccins/Maladies infectieuses;Pfizer/BioNTech;7 785;-49.1
-19;Farxiga/Forxiga ;Metabolic/Cardiovascular/Renal;Métabolique/Cardiovasculaire/Rénale;AstraZeneca;7 656;27.7
+19;Farxiga/Forxiga ;Metabolic/Cardiovascular/Renal;MÃ©tabolique/Cardiovasculaire/RÃ©nale;AstraZeneca;7 656;27.7
 20;Ocrevus ;Neurology/Immunology;Neurologie/Immunologie;Roche;7 655;7.8
 21;Tagrisso ;Oncology;Oncologie;AstraZeneca;6 580;13.5
 22;Prevnar family ;Vaccines/Infectious Diseases;Vaccins/Maladies infectieuses;Pfizer;6 411;-0.5
 23;Cosentyx ;Immunology;Immunologie;Novartis;6 141;23.3
 24;Rinvoq ;Immunology;Immunologie;AbbVie;5 971;46.2
-25;Revlimid ;Oncology/Hematology;Oncologie/Hématologie;Bristol-Myers Squibb;5 773;-5.3
+25;Revlimid ;Oncology/Hematology;Oncologie/HÃ©matologie;Bristol-Myers Squibb;5 773;-5.3
 26;Paxlovid ;Infectious Diseases (Antivirals);Maladies infectieuses (antiviraux);Pfizer;5 716;346.9
-27;Xarelto ;Cardiovascular/Hematology;Cardio/Hématologie;Bayer / Johnson & Johnson;5 600;-9.9
+27;Xarelto ;Cardiovascular/Hematology;Cardio/HÃ©matologie;Bayer / Johnson & Johnson;5 600;-9.9
 28;Vyndaqel ;Cardiovascular/Rare Disease;Maladies cardiovasculaires/rares;Pfizer;5 451;64.1
 29;XTANDI ;Oncology;Oncologie;Astellas / Pfizer;5 380;-8.8
 30;Verzenio ;Oncology;Oncologie;Eli Lilly and Company;5 307;37.4
 31;Entyvio ;Immunology;Immunologie;Takeda;5 291;5.8
-32;Trulicity ;Metabolic Diseases;Maladies métaboliques;Eli Lilly and Company;5 254;-26.3
-33;Hemlibra ;Hematology;Hématologie;Roche;5 111;10.8
+32;Trulicity ;Metabolic Diseases;Maladies mÃ©taboliques;Eli Lilly and Company;5 254;-26.3
+33;Hemlibra ;Hematology;HÃ©matologie;Roche;5 111;10.8
 34;Lymparza ;Oncology;Oncologie;AstraZeneca / Merck;4 983;15.6
 35;Imfinzi ;Oncology;Oncologie;AstraZeneca;4 717;16.9
 36;Vabysmo ;Ophthalmology;Ophtalmologie;Roche;4 386;67.3
-37;Prolia ;Bone Health;Santé des os;Amgen;4 374;8.1
+37;Prolia ;Bone Health;SantÃ© des os;Amgen;4 374;8.1
 38;Ibrance ;Oncology;Oncologie;Pfizer;4 367;-8.1
 39;Shingrix;Vaccines/Infectious Diseases;Vaccins/Maladies infectieuses;GSK;4 342;1.3
 40;Invega Sustenna/Xeplion/Invega Trinza/Trevicta ;Psychiatry;Psychiatrie;Johnson & Johnson;4 222;2.6
@@ -45,7 +45,7 @@ Rang;Nom;Disease area;Disease area FR;Fabricant(s);Ventes 2024 (mn $);Taux de cr
 44;Xolair ;Immunology/Respiratory;Immunologie/Respiratoire;Roche;4 022;66.2
 45;Orencia ;Immunology;Immunologie;Bristol Myers Squibb;3 682;2.2
 46;Tremfya ;Immunology;Immunologie;Johnson & Johnson;3 670;16.6
-47;Pomalyst ;Oncology/Hematology;Oncologie/Hématologie;Bristol-Myers Squibb;3 545;3
-48;Rybelsus ;Metabolic Diseases;Maladies métaboliques;Novo Nordisk;3 381;24.2
-49;Imbruvica ;Oncology/Hematology;Oncologie/Hématologie;AbbVie / Johnson & Johnson;3 347;-6.9
+47;Pomalyst ;Oncology/Hematology;Oncologie/HÃ©matologie;Bristol-Myers Squibb;3 545;3
+48;Rybelsus ;Metabolic Diseases;Maladies mÃ©taboliques;Novo Nordisk;3 381;24.2
+49;Imbruvica ;Oncology/Hematology;Oncologie/HÃ©matologie;AbbVie / Johnson & Johnson;3 347;-6.9
 50;Enbrel ;Immunology;Immunologie;Amgen;3 316;-10.3
